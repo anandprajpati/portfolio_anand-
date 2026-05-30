@@ -31,8 +31,8 @@ export default function Hero() {
   }, [displayed, typing, roleIndex]);
 
   const socials = [
-    { icon: <FiGithub size={20} />, href: "https://github.com" },
-    { icon: <FiLinkedin size={20} />, href: "https://linkedin.com" },
+    { icon: <FiGithub size={20} />, href: "https://github.com/anandprajpati" },
+    { icon: <FiLinkedin size={20} />, href: "https://www.linkedin.com/in/anand-prajapati-346964243" },
     { icon: <FiTwitter size={20} />, href: "https://twitter.com" },
   ];
 

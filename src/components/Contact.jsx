@@ -6,8 +6,8 @@ const recipientEmail = "anandvprajapati905@gmail.com";
 
 const info = [
   { icon: <FiMail size={18} />, label: "Email", value: recipientEmail, href: `mailto:${recipientEmail}` },
-  { icon: <FiGithub size={18} />, label: "GitHub", value: "github.com/anand", href: "https://github.com" },
-  { icon: <FiLinkedin size={18} />, label: "LinkedIn", value: "linkedin.com/in/anand", href: "https://linkedin.com" },
+  { icon: <FiGithub size={18} />, label: "GitHub", value: "github.com/anandprajpati", href: "https://github.com/anandprajpati" },
+  { icon: <FiLinkedin size={18} />, label: "LinkedIn", value: "linkedin.com/in/anand-prajapati-346964243", href: "https://www.linkedin.com/in/anand-prajapati-346964243" },
   { icon: <FiMapPin size={18} />, label: "Location", value: "India", href: null },
 ];
 

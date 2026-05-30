@@ -3,8 +3,8 @@ import { FiGithub, FiLinkedin, FiTwitter, FiHeart } from "react-icons/fi";
 
 const links = ["Home", "About", "Projects", "Experience", "Contact"];
 const socials = [
-  { icon: <FiGithub size={17} />, href: "https://github.com" },
-  { icon: <FiLinkedin size={17} />, href: "https://linkedin.com" },
+  { icon: <FiGithub size={17} />, href: "https://github.com/anandprajpati" },
+  { icon: <FiLinkedin size={17} />, href: "https://www.linkedin.com/in/anand-prajapati-346964243" },
   { icon: <FiTwitter size={17} />, href: "https://twitter.com" },
 ];
 
